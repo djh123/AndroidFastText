@@ -1,6 +1,7 @@
 # AndroidFastText
 
 本文将Fasttext 制作成so，放到Android apk中，进行运用。
+
 fastText 原文
 https://github.com/facebookresearch/fastText
 
