@@ -7,6 +7,7 @@ https://github.com/facebookresearch/fastText
 ## Fast start
 
 adb push demo/modelyule.bin
+
 adb install demo/app-debug.apk
 
 ## 详细的搬迁方案
