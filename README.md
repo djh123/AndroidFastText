@@ -15,6 +15,6 @@ adb install demo/app-debug.apk
 https://zhuanlan.zhihu.com/p/263339726
 
 ## 展示
-![apk](./demo/1.png)
+![apk界面](./demo/1.png)
 
 
