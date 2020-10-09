@@ -4,11 +4,12 @@
 fastText 原文
 https://github.com/facebookresearch/fastText
 
-##Fast start
+## Fast start
 
 adb push demo/modelyule.bin
 adb install demo/app-debug.apk
 
-##详细的搬迁方案
-http://
+## 详细的搬迁方案
+
+https://zhuanlan.zhihu.com/p/263339726
 
